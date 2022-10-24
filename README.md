@@ -23,5 +23,5 @@ We have implemented the below models.
 <li>Support Vector Machine (SVM)</li>
 <li>K-Nearest Neighbors (KNN)</li>
 <li>Random Forest Classifier (RFC)</li>
-This project uses deep learning models (VGG16) to classify whether the patient has lung cancer or not. When compared to other methods, this method reduces execution time and storage requirements. It also highlights the recent research work in the domain and issues in the existing work. This is the best model among all the models used in the project
+This project uses deep learning models (VGG16) to classify whether the patient has lung cancer or not. When compared to other methods, this method reduces storage requirements and execution time. It also highlights the recent research work in the domain and issues in the existing work. This is the best model among all the models used in the project
  
